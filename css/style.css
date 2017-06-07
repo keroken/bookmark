@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+
+}
+
+/*.navbar {
+	background-color: #009F8C;
+	opacity: 0.7;
+
+}*/
+
+/*.navbar a {
+	color: #cccccc !important;
+	text-shadow: 3px 3px 5px #000;
+
+}
+
+.navbar a:hover {
+	color: #ffffff !important;
+	background-color: #646464 !important;
+
+}*/
+
+/*.navbar-header .navbar-brand {
+	color: white !important;
+	font-size: 1.5em;
+
+}*/
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  width: 100%;
+}
+
+td {
+  border: 1px solid #666;
+  width: 25%;
+  padding: 10px;
+}
